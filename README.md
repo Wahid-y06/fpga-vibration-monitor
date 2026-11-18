@@ -1,5 +1,7 @@
 # FPGA Vibration Monitoring System
 
+[![tests](https://github.com/Wahid-y06/fpga-vibration-monitor/actions/workflows/tests.yml/badge.svg)](https://github.com/Wahid-y06/fpga-vibration-monitor/actions/workflows/tests.yml)
+
 A fixed-point Verilog pipeline that monitors machine vibration: it splits
 an accelerometer signal into diagnostic frequency bands, measures the energy
 in each band, raises warning/critical alarms, and draws a live bar-graph
