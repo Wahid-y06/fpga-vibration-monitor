@@ -1,0 +1,12 @@
+sim_build/
+results.xml
+__pycache__/
+*.pyc
+.pytest_cache/
+*.vcd
+*.fst
+*.ppm
+# Quartus output
+db/
+incremental_db/
+output_files/
